@@ -1,5 +1,9 @@
 # todo-vue
 
+## Description
+
+Todo App to test Vue 3 Composition API
+
 ## Project setup
 ```
 npm install
